@@ -8,13 +8,6 @@
 
 ---
 
-### 🎧 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4xyf6uilrt2669n1imhyhf731&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4xyf6uilrt2669n1imhyhf731&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
 
 ### 📬 Let's Connect
 
